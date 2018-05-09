@@ -1,0 +1,192 @@
+[02-Jul-2017 04:19:51 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/drpoudel/public_html/nhnepal/class/aptech.dbConnect.php on line 11
+[02-Jul-2017 04:19:51 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 42
+[02-Jul-2017 04:19:51 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 200
+[02-Jul-2017 04:19:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 213
+[02-Jul-2017 04:19:51 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 264
+[02-Jul-2017 04:19:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 265
+[02-Jul-2017 04:19:51 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 186
+[02-Jul-2017 04:19:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 187
+[02-Jul-2017 04:19:51 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 86
+[02-Jul-2017 04:19:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 89
+[02-Jul-2017 04:19:51 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 278
+[02-Jul-2017 04:19:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 280
+[02-Jul-2017 04:19:51 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 57
+[02-Jul-2017 04:19:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 58
+[02-Jul-2017 04:19:51 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 250
+[02-Jul-2017 04:19:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 254
+[02-Jul-2017 04:19:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 254
+[02-Jul-2017 04:19:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 254
+[02-Jul-2017 04:19:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 254
+[02-Jul-2017 04:19:51 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 233
+[02-Jul-2017 04:19:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 235
+[02-Jul-2017 04:19:51 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 332
+[02-Jul-2017 04:19:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 334
+[02-Jul-2017 04:19:51 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 347
+[02-Jul-2017 04:19:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 348
+[02-Jul-2017 04:21:22 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/drpoudel/public_html/nhnepal/class/aptech.dbConnect.php on line 11
+[02-Jul-2017 04:21:22 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 42
+[02-Jul-2017 04:21:22 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 200
+[02-Jul-2017 04:21:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 213
+[02-Jul-2017 04:21:22 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 264
+[02-Jul-2017 04:21:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 265
+[02-Jul-2017 04:21:22 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 186
+[02-Jul-2017 04:21:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 187
+[02-Jul-2017 04:21:22 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 86
+[02-Jul-2017 04:21:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 89
+[02-Jul-2017 04:21:22 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 278
+[02-Jul-2017 04:21:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 280
+[02-Jul-2017 04:21:22 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 57
+[02-Jul-2017 04:21:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 58
+[02-Jul-2017 04:21:22 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 250
+[02-Jul-2017 04:21:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 254
+[02-Jul-2017 04:21:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 254
+[02-Jul-2017 04:21:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 254
+[02-Jul-2017 04:21:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 254
+[02-Jul-2017 04:21:22 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 233
+[02-Jul-2017 04:21:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 235
+[02-Jul-2017 04:21:22 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 332
+[02-Jul-2017 04:21:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 334
+[02-Jul-2017 04:21:22 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 347
+[02-Jul-2017 04:21:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/drpoudel/public_html/nhnepal/class/class.display.php on line 348
+[02-Jul-2017 04:25:24 America/Chicago] PHP Fatal error:  Call to a member function pageCounter() on a non-object in /home/drpoudel/public_html/nhnepal/courses.php on line 4
+[23-Jul-2017 08:22:12 America/Chicago] PHP Fatal error:  Call to a member function pageCounter() on a non-object in /home/drpoudel/public_html/nhnepal/courses.php on line 4
+[23-Jul-2017 08:22:13 America/Chicago] PHP Fatal error:  Call to a member function pageCounter() on a non-object in /home/drpoudel/public_html/nhnepal/courses.php on line 4
+[23-Jul-2017 08:22:14 America/Chicago] PHP Fatal error:  Call to a member function pageCounter() on a non-object in /home/drpoudel/public_html/nhnepal/courses.php on line 4
+[23-Jul-2017 08:23:56 America/Chicago] PHP Fatal error:  Call to a member function pageCounter() on a non-object in /home/drpoudel/public_html/nhnepal/courses.php on line 4
+[23-Jul-2017 08:24:04 America/Chicago] PHP Fatal error:  Call to a member function pageCounter() on a non-object in /home/drpoudel/public_html/nhnepal/courses.php on line 4
+[26-Aug-2017 03:13:53 America/Chicago] PHP Fatal error:  Call to a member function pageCounter() on a non-object in /home/drpoudel/public_html/nhnepal/courses.php on line 4
+[24-Mar-2018 21:29:29 America/Chicago] PHP Fatal error:  Call to a member function pageCounter() on a non-object in /home/drpoudel/public_html/nhnepal/courses.php on line 4
+[24-Mar-2018 23:29:56 America/Chicago] PHP Fatal error:  Call to a member function pageCounter() on a non-object in /home/drpoudel/public_html/nhnepal/courses.php on line 4
+[24-Mar-2018 23:31:07 America/Chicago] PHP Fatal error:  Call to a member function pageCounter() on a non-object in /home/drpoudel/public_html/nhnepal/courses.php on line 4
+[24-Mar-2018 23:31:29 America/Chicago] PHP Fatal error:  Call to a member function pageCounter() on a non-object in /home/drpoudel/public_html/nhnepal/courses.php on line 4
+[24-Mar-2018 23:31:37 America/Chicago] PHP Fatal error:  Call to a member function pageCounter() on a non-object in /home/drpoudel/public_html/nhnepal/courses.php on line 4
+[01-Apr-2018 03:01:13 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/aptech.dbConnect.php on line 11
+[01-Apr-2018 03:01:13 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 42
+[01-Apr-2018 03:01:13 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 200
+[01-Apr-2018 03:01:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 213
+[01-Apr-2018 03:01:13 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 264
+[01-Apr-2018 03:01:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 265
+[01-Apr-2018 03:01:13 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 186
+[01-Apr-2018 03:01:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 187
+[01-Apr-2018 03:01:13 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 86
+[01-Apr-2018 03:01:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 89
+[01-Apr-2018 03:01:13 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 278
+[01-Apr-2018 03:01:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 280
+[01-Apr-2018 03:01:13 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 57
+[01-Apr-2018 03:01:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 58
+[01-Apr-2018 03:01:13 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 250
+[01-Apr-2018 03:01:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 254
+[01-Apr-2018 03:01:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 254
+[01-Apr-2018 03:01:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 254
+[01-Apr-2018 03:01:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 254
+[01-Apr-2018 03:01:13 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 233
+[01-Apr-2018 03:01:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 235
+[01-Apr-2018 03:01:13 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 332
+[01-Apr-2018 03:01:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 334
+[01-Apr-2018 03:01:13 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 347
+[01-Apr-2018 03:01:13 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 348
+[01-Apr-2018 03:01:51 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/aptech.dbConnect.php on line 11
+[01-Apr-2018 03:01:51 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 42
+[01-Apr-2018 03:01:51 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 200
+[01-Apr-2018 03:01:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 213
+[01-Apr-2018 03:01:51 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 264
+[01-Apr-2018 03:01:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 265
+[01-Apr-2018 03:01:51 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 186
+[01-Apr-2018 03:01:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 187
+[01-Apr-2018 03:01:51 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 86
+[01-Apr-2018 03:01:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 89
+[01-Apr-2018 03:01:51 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 278
+[01-Apr-2018 03:01:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 280
+[01-Apr-2018 03:01:51 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 57
+[01-Apr-2018 03:01:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 58
+[01-Apr-2018 03:01:51 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 250
+[01-Apr-2018 03:01:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 254
+[01-Apr-2018 03:01:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 254
+[01-Apr-2018 03:01:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 254
+[01-Apr-2018 03:01:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 254
+[01-Apr-2018 03:01:51 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 233
+[01-Apr-2018 03:01:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 235
+[01-Apr-2018 03:01:51 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 332
+[01-Apr-2018 03:01:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 334
+[01-Apr-2018 03:01:51 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 347
+[01-Apr-2018 03:01:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 348
+[01-Apr-2018 03:04:56 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/aptech.dbConnect.php on line 11
+[01-Apr-2018 03:04:56 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 42
+[01-Apr-2018 03:04:56 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 200
+[01-Apr-2018 03:04:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 213
+[01-Apr-2018 03:04:56 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 264
+[01-Apr-2018 03:04:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 265
+[01-Apr-2018 03:04:56 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 186
+[01-Apr-2018 03:04:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 187
+[01-Apr-2018 03:04:56 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 86
+[01-Apr-2018 03:04:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 89
+[01-Apr-2018 03:04:56 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 278
+[01-Apr-2018 03:04:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 280
+[01-Apr-2018 03:04:56 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 57
+[01-Apr-2018 03:04:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 58
+[01-Apr-2018 03:04:56 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 250
+[01-Apr-2018 03:04:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 254
+[01-Apr-2018 03:04:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 254
+[01-Apr-2018 03:04:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 254
+[01-Apr-2018 03:04:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 254
+[01-Apr-2018 03:04:56 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 233
+[01-Apr-2018 03:04:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 235
+[01-Apr-2018 03:04:56 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 332
+[01-Apr-2018 03:04:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 334
+[01-Apr-2018 03:04:56 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 347
+[01-Apr-2018 03:04:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 348
+[01-Apr-2018 03:06:43 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/aptech.dbConnect.php on line 11
+[01-Apr-2018 03:06:43 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 42
+[01-Apr-2018 03:06:43 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 200
+[01-Apr-2018 03:06:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 213
+[01-Apr-2018 03:06:43 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 264
+[01-Apr-2018 03:06:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 265
+[01-Apr-2018 03:06:43 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 186
+[01-Apr-2018 03:06:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 187
+[01-Apr-2018 03:06:43 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 86
+[01-Apr-2018 03:06:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 89
+[01-Apr-2018 03:06:43 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 278
+[01-Apr-2018 03:06:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 280
+[01-Apr-2018 03:06:43 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 57
+[01-Apr-2018 03:06:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 58
+[01-Apr-2018 03:06:43 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 250
+[01-Apr-2018 03:06:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 254
+[01-Apr-2018 03:06:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 254
+[01-Apr-2018 03:06:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 254
+[01-Apr-2018 03:06:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 254
+[01-Apr-2018 03:06:43 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 233
+[01-Apr-2018 03:06:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 235
+[01-Apr-2018 03:06:43 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 332
+[01-Apr-2018 03:06:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 334
+[01-Apr-2018 03:06:43 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 347
+[01-Apr-2018 03:06:43 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 348
+[01-Apr-2018 03:06:50 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/aptech.dbConnect.php on line 11
+[01-Apr-2018 03:06:50 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 42
+[01-Apr-2018 03:06:50 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 200
+[01-Apr-2018 03:06:50 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 213
+[01-Apr-2018 03:06:50 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 264
+[01-Apr-2018 03:06:50 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 265
+[01-Apr-2018 03:06:50 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 186
+[01-Apr-2018 03:06:50 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 187
+[01-Apr-2018 03:06:50 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 86
+[01-Apr-2018 03:06:50 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 89
+[01-Apr-2018 03:06:50 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 278
+[01-Apr-2018 03:06:50 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 280
+[01-Apr-2018 03:06:50 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 57
+[01-Apr-2018 03:06:50 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 58
+[01-Apr-2018 03:06:50 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 250
+[01-Apr-2018 03:06:50 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 254
+[01-Apr-2018 03:06:50 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 254
+[01-Apr-2018 03:06:50 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 254
+[01-Apr-2018 03:06:50 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 254
+[01-Apr-2018 03:06:50 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 233
+[01-Apr-2018 03:06:50 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 235
+[01-Apr-2018 03:06:50 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 332
+[01-Apr-2018 03:06:50 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 334
+[01-Apr-2018 03:06:50 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 347
+[01-Apr-2018 03:06:50 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/class.display.php on line 348
+[01-Apr-2018 03:29:22 America/Chicago] PHP Warning:  include_once(inc_session.php): failed to open stream: No such file or directory in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/aptech.dbConnect.php on line 2
+[01-Apr-2018 03:29:22 America/Chicago] PHP Warning:  include_once(): Failed opening 'inc_session.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/aptech.dbConnect.php on line 2
+[01-Apr-2018 03:30:02 America/Chicago] PHP Warning:  include_once(inc_session.php): failed to open stream: No such file or directory in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/aptech.dbConnect.php on line 2
+[01-Apr-2018 03:30:02 America/Chicago] PHP Warning:  include_once(): Failed opening 'inc_session.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/sabai6/public_html/kundanthapa/webapp/includes/classes/aptech.dbConnect.php on line 2
+[01-Apr-2018 03:31:10 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sabai6/public_html/kundanthapa/webapp/courses.php:3) in /home/sabai6/public_html/kundanthapa/webapp/config/init.php on line 2
