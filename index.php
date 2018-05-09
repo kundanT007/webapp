@@ -120,7 +120,7 @@ $(document).ready(function() {
 					<i class="fa fa-film" > </i>
 					<h4>Video Lessons</h4>
 					<p>
-					We record the class video and then we provide it to them. Measurable and relatively permanent change in behavior through experience
+					We record the class video and then we provide it to them. Measurable and relatively permanent change in behavior through experience and process of acquiring new or modifying existing knowledge, behaviors, skills, values, or preferences.
 					</p>
 				</div>
 			</div>
