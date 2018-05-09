@@ -5,7 +5,7 @@ $display->pageCounter(); ?>
 <html>
 <head>
 	<link rel='SHORTCUT ICON' href='gallery/logo/favicon.ico' type='image/x-icon' />
-	<title>New Horizon Nepal </title>
+	<title>New Horizon Nepal</title>
 	<link href="assets/css/bootstrap.css" rel='stylesheet' type='text/css' />
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 	<script src="assets/js/jquery-1.11.1.min.js"></script>
@@ -120,7 +120,7 @@ $(document).ready(function() {
 					<i class="fa fa-film" > </i>
 					<h4>Video Lessons</h4>
 					<p>
-					We record the class video and then we provide it to them.
+					We record the class video and then we provide it to them. Measurable and relatively permanent change in behavior through experience
 					</p>
 				</div>
 			</div>
